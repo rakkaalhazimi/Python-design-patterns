@@ -1,0 +1,13 @@
+class HelpHandler:
+    ...
+
+
+
+class Button(HelpHandler):
+    ...
+
+class Dialog(HelpHandler):
+    ...
+
+class Application(HelpHandler):
+    ...
